@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: azure;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px;
+  }
+  
+  form {
+    margin-top: 20px;
+    background: rgba(255, 251, 0, 0);
+  }
+  
+  #output {
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    color: #000;
+  }
+  
